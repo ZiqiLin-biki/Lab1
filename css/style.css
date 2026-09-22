@@ -20,7 +20,7 @@ header{
 
 h1{
     margin-bottom: 6px;
-    font: size 32px;
+    font-size: 32px;
     font-weight:bold;
     color:rgb(123, 72, 72)
 }
@@ -32,7 +32,7 @@ header p{
 
 main{
     max-width:1200px;
-    margin:0;
+    margin:0 auto;
     padding:32px 20px;
 }
 
@@ -56,7 +56,7 @@ h2{
 }
 
 
-.card-container{
+.cards-container{
     font-size:0;
 }
 
@@ -113,7 +113,7 @@ footer{
     .card{
         display:inline-block;
         width:30%;
-        margin-right: auto;
+        margin-right: 3%;
         vertical-align: top;
         height: 850px;
     }
